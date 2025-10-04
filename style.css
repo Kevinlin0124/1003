@@ -6,13 +6,13 @@ html, body {
     display: flex;                           /* 使用 flex 排版 */
     flex-direction: column;                 /* 垂直排列（header → main → footer） */
     font-family: "Noto Sans TC", sans-serif; /* 使用思源黑體字型，適合中文 */
-    background-color: #fff;                  /* 頁面背景色為白色 */
-    color: #333;                             /* 主要文字顏色為深灰 */
+    background-color: #ca3c3c;                  /* 頁面背景色為白色 */
+    color: #121111;                             /* 主要文字顏色為深灰 */
 }
 
 /* ===== 頁首區塊 header ===== */
 header {
-    background-color: #fcd34d;              /* 淡黃色背景 */
+    background-color: #fc9f4d;              /* 淡黃色背景 */
     padding: 20px;                          /* 四周內距 */
     text-align: center;                     /* 內容置中 */
 }
